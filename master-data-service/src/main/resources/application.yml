@@ -1,0 +1,14 @@
+server:
+  port: 9091
+  servlet:
+    context-path: /master-data-service
+spring:
+  datasource:
+    driverClassName: org.h2.Driver
+    url: jdbc:h2:mem:masterdb
+    username: sa
+  h2:
+    console:
+      enabled: true
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
