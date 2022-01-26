@@ -1,0 +1,4 @@
+{"connetionData":[
+  {"onwardFltNo":"EK 501","onwardDepArpt":"BOM","onwardArrArpt":"DXB","onwardDepTime":"4:30","onwardArrTime":"6:00","connFltNo":"EK 201","connDepArpt":"DXB","connArrArpt":"JFK","connDepTime":"8:30","connArrTime":"14:25"}
+  , {"onwardFltNo":"EK 501","onwardDepArpt":"BOM","onwardArrArpt":"DXB","onwardDepTime":"4:30","onwardArrTime":"6:00","connFltNo":"EK 205","connDepArpt":"DXB","connArrArpt":"JFK","connDepTime":"9:45","connArrTime":"19:00"}
+  ]}
