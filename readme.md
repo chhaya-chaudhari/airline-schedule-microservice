@@ -10,6 +10,7 @@ A multi-module project including UI to search flight connections. Each module is
 ```
 sudo apt update
 ```
+```bash
 sudo apt install maven
 ```
 
