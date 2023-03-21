@@ -7,9 +7,11 @@ A multi-module project including UI to search flight connections. Each module is
 4. Flight Connections Search UI
 
 ## Install maven for ubuntu
-
+```
 sudo apt update
+```
 sudo apt install maven
+```
 
 ## Build
 
