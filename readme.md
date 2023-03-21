@@ -6,6 +6,11 @@ A multi-module project including UI to search flight connections. Each module is
 3. API Gateway Service
 4. Flight Connections Search UI
 
+## Install maven for ubuntu
+
+sudo apt update
+sudo apt install maven
+
 ## Build
 
 Project build can be done by following command from the root directory.
