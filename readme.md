@@ -5,6 +5,7 @@ A multi-module project including UI to search flight connections. Each module is
 2. Connection Builder Service
 3. API Gateway Service
 4. Flight Connections Search UI
+5. Trying with CICD
 
 ## Install maven for ubuntu
 ```
